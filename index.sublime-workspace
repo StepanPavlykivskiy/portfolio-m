@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"phone"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"L",
+				"LABEL\tTag"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ma",
+				"mail.php\t(common.js)"
+			],
+			[
+				"va",
+				"var\t(common.js)"
+			],
+			[
+				"s",
+				"sex"
+			],
+			[
+				"c",
+				"current"
+			],
+			[
+				"g",
+				"gulp.dest"
+			],
+			[
+				"gu",
+				"gulp.dest"
+			],
+			[
+				"f",
+				"fun\tFunction"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"col",
+				"col-phablet-1-2"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"scr",
+				"screen\t(css.css)"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"info",
+				"info__feter__right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wI",
+				"width"
+			],
+			[
+				"W",
+				"widows"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ju",
+				"justify-content"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sap",
+				"span"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"im",
+				"img\t(libs.min.js)"
+			],
+			[
+				"cs",
+				"css-libs"
+			],
+			[
+				"li",
+				"libs"
+			],
+			[
+				"gulp-",
+				"gulp-uglifyjs\t(package.json)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"liveRelode",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/addin/OneDrive/Робочий стіл/xampp/save.php",
+		"/C/Users/addin/OneDrive/Робочий стіл/xampp/index.php",
+		"/C/xampp/htdocs/stepan/file.csv",
+		"/C/Users/addin/OneDrive/Робочий стіл/boostrap/template_bootstrap/js/common.js",
+		"/C/xampp/htdocs/stepan/index.php",
+		"/C/Users/addin/OneDrive/Робочий стіл/boostrap/template_bootstrap/mail.php",
+		"/C/Users/addin/OneDrive/Робочий стіл/boostrap/template_bootstrap/index.html",
+		"/C/Users/addin/OneDrive/Робочий стіл/boostrap/bostrap korin/mail.php",
+		"/C/Users/addin/OneDrive/Робочий стіл/boostrap/bostrap korin/js/common.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/minecraft/src/index.pug",
+		"/C/Users/addin/OneDrive/Робочий стіл/minecraft/src/sass/style.scss",
+		"/C/Users/addin/OneDrive/Робочий стіл/minecraft/package.json",
+		"/C/Users/addin/OneDrive/Робочий стіл/gulpfille.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/minecraft/gulpfile.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/minecraft/src/js/index.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/minecraft/src/gulpfile.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/minecraft/package-lock.json",
+		"/C/Users/addin/OneDrive/Робочий стіл/party/party/src/router/index.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/party/party/src/main.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/party/party/src/components/People.vue",
+		"/C/Users/addin/OneDrive/Робочий стіл/party/party/src/components/HelloWorld.vue",
+		"/C/Users/addin/OneDrive/Робочий стіл/darkdelight/js/src.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/darkdelight/css/css.css",
+		"/C/Users/addin/OneDrive/Робочий стіл/darkdelight/index.html",
+		"/C/Users/addin/OneDrive/Робочий стіл/матеріали для сайтів/www2/css/css.css",
+		"/C/Users/addin/OneDrive/Робочий стіл/матеріали для сайтів/www2/index.html",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/Stepan-Utopik-Flovers/index.html",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/Stepan-Utopik-Flovers/css/css.css",
+		"/C/Users/addin/OneDrive/Робочий стіл/матеріали для сайтів/www2/js/src.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/Мовус/css/css.css",
+		"/C/Users/addin/OneDrive/Робочий стіл/Мовус/index.html",
+		"/C/Users/addin/OneDrive/Робочий стіл/myprogekt/app/js/libs.min.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/myprogekt/package-lock.json",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/darkdelight/index.html",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/darkdelight/css/css.css",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/darkdelight/js/livereload.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/darkdelight/js/LiveReload.js",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/darkdelight/js/LiveReload",
+		"/C/Users/addin/OneDrive/Робочий стіл/сайт/darkdelight/css/slider-pro.min.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
